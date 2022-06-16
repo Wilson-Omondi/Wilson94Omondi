@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wilson Omondi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React
+- 👀 I’m a Front-End Developer.
+- 🌱 JavaScript/React.
 - 📫 How to reach me wangaw94@gmail.com
 
 <!---
